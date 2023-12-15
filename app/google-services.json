@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "326534512213",
+    "project_id": "cooking-masters-128da",
+    "storage_bucket": "cooking-masters-128da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326534512213:android:def1af272ef0fe79a25edc",
+        "android_client_info": {
+          "package_name": "app.itmaster.mobile.cookingmasters"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVZazjZ7D5QNHgH_u8WbELz0SpoedMx7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
